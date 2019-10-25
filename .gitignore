@@ -1,0 +1,5 @@
+mediafiles
+staticfiles
+.vscode
+migrations
+*.pyc
